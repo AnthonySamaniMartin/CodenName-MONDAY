@@ -1,3 +1,4 @@
+/*for the 100vw 100vh centered fullscreen */ 
 .masthead {
     height: 100vh;
     min-height: 500px;
@@ -5,4 +6,10 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+/*my GO-TO web containers to be used in combo with bootstrap container-fluids */
+.cont-sec {
+    min-width: 500px;
+    width: 100vw;
 }
