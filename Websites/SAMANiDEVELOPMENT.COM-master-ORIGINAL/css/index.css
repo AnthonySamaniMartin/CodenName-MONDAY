@@ -1,0 +1,199 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  background-color: black;
+  font-family: 'Raleway', sans-serif;
+}
+ul.traditional-navigation-bar {
+  display: inline;
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+ }
+ #logo-nav-item {
+   float: left;
+ }
+ 
+ /* makes list items align */
+ ul.traditional-navigation-bar li{
+   float: right;
+ }
+/* style for link list items */
+ul.traditional-navigation-bar li a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px 16px;
+  transition: 0.4s;
+  font-size: 1em;
+  color: white;
+}
+/*changes background when hovered over */
+ul.traditional-navigation-bar li a:hover {
+  color: white;
+}
+/*hides icon until screen becomes too small */
+ul.traditional-navigation-bar li.icon0 {
+  display:none;
+}
+.custom-section {
+  height: 350px;
+  width: 100%;
+  padding: 14px 16px;
+  display: inline-block;
+}
+/* -----------------------------buttons -----------------------------*/
+div.flyingTextSpace{
+	top: 40%;
+	text-align: center;
+	position:absolute;
+	height: 100px;
+	width: 100%;
+}
+.fly-in-text {
+	list-style-type: none;
+	position: absolute;
+	left: 47.5%; /*47.5% is perfect for just welcome */
+	top: 18%;
+	transform: translateX(-50%) translateY(-50%);
+	width:100%;
+}
+.fly-in-text li {
+	display: inline-block;
+	margin-right: 10px;
+	color:black;
+	font-size: 4em;
+	opacity: 1s;
+	transition: all 2.5s ease;
+}
+.fly-in-text.hidden li {
+	opacity: 0;
+}
+.fly-in-text li:last-child {
+	margin-right: 0;
+}
+
+.fly-in-text.hidden li:nth-child(1) {
+	transform: translateX(0px) translateY(300px);
+}
+.fly-in-text.hidden li:nth-child(2) {
+	transform: translateX(0px) translateY(-270px);
+}
+.fly-in-text.hidden li:nth-child(3) {
+	transform: translateX(0px) translateY(115px);
+}
+.fly-in-text.hidden li:nth-child(4) {
+	transform: translateX(0px) translateY(-202px);
+}
+.fly-in-text.hidden li:nth-child(5) {
+	transform: translateX(0px) translateY(350px);
+}
+.fly-in-text.hidden li:nth-child(6) {
+	transform: translateX(0px) translateY(-380px);
+}
+.fly-in-text.hidden li:nth-child(7) {
+	transform: translateX(0px) translateY(320px);
+}
+ul.socialMediaList li {
+	display:inline-block;
+	margin-right: 10px;
+}
+img.socialMeidaImg {
+	max-height:  12px !important;
+}
+ul.socialMediaList {
+	position: fixed;
+	bottom: 1%;
+	text-align: center;
+}
+h1{
+font-family: 'Anton', sans-serif;
+}
+.main-header-p{
+  font-size: 2em;
+}
+.navbarbrand-logo-text{
+  font-family: 'Anton', sans-serif;
+}
+
+div.main-page-sec{
+  width: 100%;
+  height: 100vh;
+  background-color: white;
+  padding: 50px;
+}
+.typing-text {
+	font-size: 7em;
+}
+.main-header-section-content, .typing-content {
+	position: relative;
+	margin: 14px 16px;
+	padding: 10px;
+}
+.typing-content {
+	position: relative;
+	top-margin: 50px;
+}
+#sec0{ 
+  background-image: url("../imgs/Background-SamaniDev.png");
+  background-size: cover;
+  background-repeat: no-repeat; 
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  padding-top: 15%;
+
+  color: white;
+
+}
+a.onlinestore-btn {
+
+  color: white;
+
+}
+#sec1{
+  background-image: url("../imgs/Screen Shot 2019-09-10 at 4.44.03 AM.jpeg");
+  background-repeat: no-repeat;
+  background-color: black;
+  width: 100%;
+  color: white; 
+  background-size: contain;
+}
+#company-phone-header {
+position: relative;
+float: left;
+top: 65px;
+padding: 10px;
+color: white;
+}
+#company-email-header {
+float: right;
+position: relative;
+top: 65px;
+padding: 10px;
+color: white;
+}
+h1.header-MainTxt{
+  font-size: 4em
+}
+ul.ssm-ul {
+  list-style-type: none;
+  position: absolute;
+  bottom: 2%;
+}
+li.ssm-li {
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 5px;
+}
+div.spacer{
+  width: 100%;
+  height: 250px;
+  background-color: gray;
+  text-align: center;
+}
+.ssm-li-emb {
+  max-height: 22px;
+  padding-right: 5px;
+}

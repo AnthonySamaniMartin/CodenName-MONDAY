@@ -1,0 +1,67 @@
+DESIGN DOC
+KCC.LLC
+Max Width(Excluding Full Width Header Imgs)
+1350px;
+
+Need To Do:
+-------------
+Edit Max Width For Images On Mobile
+Optimize Images For Desktop
+Hex or RGB for color Scheme
+Fonts used
+
+Employment Questions
+hello & thank thank you goodbye
+{
+    Fname
+    lname
+    phone
+    email 
+    address
+    no. items5
+
+}
+12 below
+In a few words, tell us about yourself.
+(text box)
+
+What are your strengths?
+
+What are your weaknesses?
+
+What are some accomplishments you are most proud of?
+
+Do you work better under pressure or with time to plan and organice?
+
+Why are you interested in this internship? Why should we consider you for this internship?
+
+What do you know about this industry and/or company?
+
+How would the people closest to you describe you?
+
+What are you most passionate about, professionally or prefessionally, and why?
+
+What do you hope to gain from this internship? What skills and or experience are you looking for?
+
+Why did you choose your major? What are some of your goals after graduation?
+
+Can you describe a sitauation when you had to manage multiple projects at once?
+
+
+
+
+
+
+
+San Diego’s Premiere Home Buyer
+Founded by the Flip this House stars JD Esajian and Than Merrill, CT Homes has been buying houses for over 15 years and have been helping sellers exclusively in San Diego for the better part of a decade. In that time we’ve built knowledge-base when it comes to buying homes and transforming them for future families.
+
+We are fortunate to say that San Diego is our home and we pride ourselves on rejuvenating and uplifting the city one property at a time.
+
+How we can help:
+Pay cash for houses in any condition
+Buy properties As-Is, no repairs necessary
+Close quickly and/or flexibly if desired
+Give sellers the ability to leave behind any unwanted personal belongings
+Practice ethics and integrity to create smooth transactions and happy sellers
+Meet JD Esajian and Than Merrill

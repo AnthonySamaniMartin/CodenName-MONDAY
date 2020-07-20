@@ -1,0 +1,83 @@
+
+ 
+ @media screen and (max-width: 980px) {
+   .main-header-section{
+        width: 100%;
+        min-height: 100px;
+   }
+
+.typing-content {
+    margin : 0 auto;
+    padding: 100px;
+    
+  }
+  .main-header-p {
+    font-size: 5em;
+    position: relative;
+    padding: 50px;
+    margin: 10px
+  }
+  .fly-in-text {
+       font-size: 4em;
+  }
+  a.onlinestore-btn {
+       color: white;
+  }
+  ul.traditional-navigation-bar li a {
+     font-size: 3em;
+
+   }
+ }
+ 
+ @media screen and (max-width: 980px) {
+   ul.traditional-navigation-bar li:not(:first-child){display:none;}
+   ul.traditional-navigation-bar li.icon0 {
+     float:right;
+     display:inline-block;
+   }
+   .typing-text {
+     font-size: 7em;
+     width: 100%;
+     position: relative;
+     top: 10%;
+   }
+   div.typing-content {
+     min-width: 100%;
+   }
+   h5.main-header-p {
+        font-size: 5em;
+   }
+   .onlinestore-btn {
+        padding-top: 50px;
+   }
+   .onlinestore-btn {
+        padding: 15px;
+        font-size: 2em;
+   }
+   .ssm-li-emb {
+        min-height: 50px;
+   }
+
+ }
+ /*when in mobile view and the menu icon is clicked my js will run to enable dropdown*/
+ @media screen and (max-width:680px) {
+   ul.traditional-navigation-bar.responsive {position: relative;}
+   ul.traditional-navigation-bar.responsive li.icon0 {
+     position: absolute;
+     top: 0;
+     right: 0;
+   }
+   ul.traditional-navigation-bar.responsive li {
+     float:none;
+     display:inline;
+   }
+   ul.traditional-navigation-bar.responsive li a {
+     display:block;
+     text-align:center;
+     background-color: rgba(255, 255, 255, 0.9);
+   }
+   #logo-nav-item {
+     float: none;
+     display: inline;
+   }
+}

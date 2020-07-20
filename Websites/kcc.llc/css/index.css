@@ -1,0 +1,189 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: Roboto;
+}
+.bckground {
+  background-image: url("../img/Post-Renevation/IMG_5213.JPG");
+  min-width: 100vw;
+  max-width: 1020px;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 35px;
+}
+/* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  background-color: black;
+  position: relative;
+}
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+  display: none;
+}
+/* Style navigation menu links */
+.topnav a {
+  color:white;
+  font-family: 'Raleway', sans-serif;
+  padding: 12px 12px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+  text-align: center;
+}
+/* Style the hamburger menu */
+.topnav a.icon {
+  background-color: black;
+  display: block;
+  color:#c9820e;
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 22px;
+}
+img#nLogo  {
+  max-height: 50px;
+}
+
+.container-fluid {
+  max-width: 1020px;
+}
+hr {
+  max-width: 750px;
+}
+p.phone {
+  color: #c9820e;
+  font-size: 1.05em;
+}
+#body-bckgrnd {
+  background-image: url("../img/kingsmenCapitalHeaderBg.jpg");
+  width: 100%;
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+}
+
+input {
+  margin: 10px;
+  padding: 10px;
+}
+div#main-hdr-txt {
+margin: 0;
+padding: 0;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+#main-hdr-el {
+  font-size: 2em;
+  margin-top: 125px;
+}
+.main-hdr-intro{
+  color: black;
+  text-align: center;
+}
+#sec-hdr-txt {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+  font-size: 2em;
+  letter-spacing: 11px;
+}
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+  border: none;
+  max-width: 18rem;
+}
+#card-sec {
+  max-width: 900px;
+}
+.card-body {
+  padding-bottom: 30px;
+}
+.btn {
+  min-width: 175PX;
+}
+.btn p {
+  margin-bottom: 0px;
+}
+
+ul.ssm-list {
+  list-style-type: none;
+  display: block;
+  margin: 0px;
+  margin-top: 25px;
+  padding: 0px;
+}
+
+ul.ssm-list li {
+  display: inline-block;
+}
+
+.ssm-link-items {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  margin: 0px;
+  padding: 0px;
+  max-height: 35px;
+}
+
+.ssm-emb {
+  max-height: 20px;
+}
+.heading {
+  font-size: 25px;
+  margin-right: 25px;
+}
+.fa {
+  font-size: 25px;
+}
+.checked {
+  color: #fad250;
+}
+.review-sec {
+  text-align: center;
+  margin-top: 35px;
+}
+.email-btn {
+  background-color: #c9820e;
+  border-color: #c9820e;
+}
+.footer {
+background-color: black;
+color:white;
+min-height: 250px;
+overflow: hidden;
+padding: 50px;
+font-family: 'Raleway', sans-serif;
+text-align: center;
+}
+.footer ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.footer a {
+  color: #c9820e;
+}
+.footer div.row {
+ padding-top: 30px;
+ min-width: 33vw;
+padding-left: 25%;
+padding-right: 25%;
+}
+#luxury-txt {
+  letter-spacing: 6px;
+  font-size: 0.75em;
+  color: #c9820e;
+}
